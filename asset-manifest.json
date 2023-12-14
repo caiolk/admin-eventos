@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/admin-eventos/static/css/main.ee045542.css",
-    "main.js": "/admin-eventos/static/js/main.590d5ab5.js",
-    "index.html": "/admin-eventos/index.html",
-    "main.ee045542.css.map": "/admin-eventos/static/css/main.ee045542.css.map",
-    "main.590d5ab5.js.map": "/admin-eventos/static/js/main.590d5ab5.js.map"
+    "main.css": "./static/css/main.ee045542.css",
+    "main.js": "./static/js/main.590d5ab5.js",
+    "index.html": "./index.html",
+    "main.ee045542.css.map": "./static/css/main.ee045542.css.map",
+    "main.590d5ab5.js.map": "./static/js/main.590d5ab5.js.map"
   },
   "entrypoints": [
     "static/css/main.ee045542.css",
